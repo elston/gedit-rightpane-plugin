@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=rightpane3
+IAge=3
+Name=Right Pane 3g
+Description=Display a right pane & manage it
+Authors=Tournier Guillaume <tournier.guillaume@gmail.com> Den Elston <elsthon@gmail.com>
+Copyright=Copyright © 2009-2015 Tournier Guillaume <tournier.guillaume@gmail.com> Den Elston <elsthon@gmail.com>
+Website=https://github.com/elston/gedit-rightpane-plugin
